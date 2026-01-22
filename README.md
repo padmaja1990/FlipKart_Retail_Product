@@ -37,7 +37,7 @@ Analyze product performance and seller metrics to identify top-performing produc
 
 | Attribute Name | Data Type | Description |
 | --- | --- | --- |
-| Product_Id | Integer | Unique product identifier |
+| Product_Id | Text | Unique product identifier |
 | Product_Name | Text | Product name |
 | Category | Text | Product category |
 | Brand | Text | Product brand |
